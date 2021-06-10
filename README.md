@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Angelo
-- Currently looking into do coding or something in the data field, such as data science or database work.
+- Currently looking to do coding or something in the data field, such as data science or database work.
 - Currently brushing up on coding skills via Python & SQL
 - You can reach me at adejesus0515@gmail.com for any questions
 
